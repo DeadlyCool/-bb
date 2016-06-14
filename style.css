@@ -1,21 +1,21 @@
 @font-face {
-    font-family: Univers;
-    src: url('fonts/Univers.otf');
+    font-family: ClearSans-Light;
+    src: url('fonts/ClearSans-Light.ttf');
 }
 @font-face {
-    font-family: Univers-Black;
-    src: url('fonts/Univers-Black.otf');
+    font-family: ClearSans-Medium;
+    src: url('fonts/ClearSans-Medium.ttf');
 }
 @font-face {
-    font-family: Univers-Bold;
-    src: url('fonts/Univers-Bold.otf');
+    font-family: ClearSans-Bold;
+    src: url('ClearSans-Bold.ttf');
 }
 ul, li {
-    font-family: Univers, sans-serif;
+    font-family: ClearSans-Light, sans-serif;
 }
 h1 {
-    font-family: Univers-Black, sans-serif;
+    font-family: ClearSans-Medium, sans-serif;
 }
 h2, h3{
-    font-family: Univers-Bold, sans-serif;
+    font-family: ClearSans-Bold, sans-serif;
 }

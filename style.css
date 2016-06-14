@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Univers;
+    src: url('fonts/Univers.otf');
+}
+@font-face {
+    font-family: Univers-Black;
+    src: url('fonts/Univers-Black.otf');
+}
+@font-face {
+    font-family: Univers-Bold;
+    src: url('fonts/Univers-Bold.otf');
+}
+ul, li {
+    font-family: Univers, sans-serif;
+}
+h1 {
+    font-family: Univers-Black, sans-serif;
+}
+h2, h3{
+    font-family: Univers-Bold, sans-serif;
+}

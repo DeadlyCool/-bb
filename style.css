@@ -26,16 +26,13 @@ h2, h3 {
     margin: 0;
     padding: 0;
 }
-#content {
-    height: 1500px;
-    background-color: #333;
-}
 #title{
     padding: 300px 0;
     background-image: url("images/bg.jpg");
     background-size: cover;
     background-attachment: fixed;
     transion: all 0.2s ease;
+    height: 365px;
 }
 #title h1 {
     text-align: center;

@@ -16,9 +16,28 @@ ul, li {
 h1 {
     font-family: ClearSans-Bold, sans-serif;
 }
-h2, h3{
+h2, h3 {
     font-family: ClearSans-Medium, sans-serif;
 }
-#title{
+#title {
     font-size: 400%;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#content {
+    height: 1500px;
+    background-color: #333;
+}
+#title{
+    padding: 300px 0;
+    background-image: url("images/bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    transion: all 0.2s ease;
+}
+#title h1 {
+    text-align: center;
+    color: white;
 }

@@ -25,6 +25,7 @@ h2, h3 {
 * {
     margin: 0;
     padding: 0;
+    list-style-type: none;
 }
 .parallax-bg {
     padding: 21% 0;
@@ -40,8 +41,8 @@ h2, h3 {
     color: #FFC88C;
 }
 .ulsub{
-    margin-left: 2%;
+    margin-left: 1%;
 }
 #main{
-    margin-left: 1%;
+    margin-left: 0.5%;
 }

@@ -19,3 +19,6 @@ h1 {
 h2, h3{
     font-family: ClearSans-Medium, sans-serif;
 }
+#title{
+    font-size: 400%;
+}

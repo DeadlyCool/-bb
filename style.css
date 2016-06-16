@@ -27,12 +27,11 @@ h2, h3 {
     padding: 0;
 }
 #title{
-    padding: 300px 0;
+    padding: 21% 0;
     background-image: url("images/bg.jpg");
     background-size: cover;
     background-attachment: fixed;
     transion: all 0.2s ease;
-    height: 365px;
 }
 #title h1 {
     text-align: center;

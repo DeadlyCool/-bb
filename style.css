@@ -36,9 +36,7 @@ h2, h3 {
 }
 .parallax-bg h1 {
     text-align: center;
-    -webkit-text-stroke-color: #BD6F1C;
-    -webkit-text-stroke-width: 2px;
-    color: #FFC88C;
+    color: #ffffff;
 }
 .ulsub{
     margin-left: 1%;
